@@ -15,4 +15,3 @@ public class App {
         System.out.println("Curtidas: " + stats.getCurtidas() + " | Comentários: " + stats.getComentarios());
     }
 }
-git
