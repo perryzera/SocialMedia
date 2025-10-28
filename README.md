@@ -22,12 +22,12 @@ O objetivo é demonstrar **boas práticas de design de software**, utilizando ta
 ### 1️⃣ Clonar o repositório
 ```bash
 No terminal do VSCode:
-cd .\SocialMedia\midia_social\
+git clone https://github.com/perryzera/SocialMedia.git
 ```
-### 2️⃣ Compilar
+### 2️⃣ Acessar a pasta
 cd .\SocialMedia\midia_social\
 
-### 3️⃣  Executar
+### 3️⃣ Executar
 java .\App.java
 
 ### 📘 Exemplo de Saída
