@@ -20,16 +20,18 @@ O objetivo é demonstrar **boas práticas de design de software**, utilizando ta
 ## 🚀 Como Executar o Projeto
 
 ### 1️⃣ Clonar o repositório
-```bash
 No terminal do VSCode:
+```bash
 git clone https://github.com/perryzera/SocialMedia.git
 ```
 ### 2️⃣ Acessar a pasta
+```bash
 cd .\SocialMedia\midia_social\
-
+```
 ### 3️⃣ Executar
+```bash
 java .\App.java
-
+```
 ### 📘 Exemplo de Saída
 [TikTok] Postando vídeo: Desafio de dança!
 Publicação criada com ID: tik999
