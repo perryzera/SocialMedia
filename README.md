@@ -21,16 +21,15 @@ O objetivo é demonstrar **boas práticas de design de software**, utilizando ta
 
 ### 1️⃣ Clonar o repositório
 ```bash
-git clone https://github.com/perryzera/SocialMedia.git
-cd SocialMedia
-```
-### 2️⃣ Estrutura esperada
-Certifique-se de que a estrutura de pastas esteja igual à exibida acima.
-### 3️⃣ Compilar
 No terminal do VSCode:
-javac SocialMedia/**/*.java
-### 4️⃣ Executar
-java midia_social.App
+cd .\SocialMedia\midia_social\
+```
+### 2️⃣ Compilar
+cd .\SocialMedia\midia_social\
+
+### 3️⃣  Executar
+java .\App.java
+
 ### 📘 Exemplo de Saída
 [TikTok] Postando vídeo: Desafio de dança!
 Publicação criada com ID: tik999
