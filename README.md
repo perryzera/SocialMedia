@@ -52,5 +52,5 @@ Curtidas: 500 | Comentários: 80
 ## 👨‍💻 Autor
 
 **Desenvolvido por:** João Vitor Perry Tulio  
-💼 **Disciplina:** Padrões de Projeto — Integração de APIs  
+💼 **Disciplina:** Padrões de Projeto 
 📚 **Professor:** Leandro Escobar
